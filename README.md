@@ -1,3 +1,15 @@
+Udacity-Item-catalog-Project
+ 
+ This is a python module that creates a website and JSON API for a list of items in a catalog. Each catagory displays their list of items and also provides user authentication using Google and Facebook. Registered users will have ability to edit and delete their own items. This application uses Flask,SQL Alchemy, JQuery,CSS, Javascript, and OAuth2 to create Item catalog website.
+
+Setting up OAuth 2.0
+
+You will need to signup for a google account and set up a client id and secret.
+Visit http://console.developers.google.com for google setup.
+Also for facebook : developers.facebook.com/apps
+
+
+
 
 Steps to run this project :
 
@@ -18,3 +30,5 @@ Once you have run the above commands successfully, you should see a catalogwithu
 Run the following command to run the app :
 
 $ python project.py
+
+References http://discussions.udacity.com/
